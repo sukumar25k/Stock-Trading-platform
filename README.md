@@ -1,6 +1,3 @@
-# Stock-Trading-platform
-The Stock Trading Platform is a Java console-based simulation for learning stock market basics. It features live (mock) price updates, buy/sell orders, portfolio tracking, margin trading, short selling, order book, technical indicators, and news feed. Built with OOP, ArrayList, and HashMap, it offers a safe, risk-free trading experience.
-
 # 📈 Stock Trading Platform (Java) — Step-by-Step README
 
 A clean, single-file Java console app that simulates a stock market with:
@@ -80,5 +77,3 @@ Portfolio:
 AAPL: 10 shares (1500.00)
 Cash: 8500.00, Margin Debt: 0.00, Net Worth: 10000.00
 
-
- 
